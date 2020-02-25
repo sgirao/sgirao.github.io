@@ -294,7 +294,7 @@ header {
 /*  My services section  */
 
 .my-services {
-    background-color: #20857B; /*var(--clr-dark);*/
+    background-color: var(--clr-dark);
     /*background-image: url(../img/duascores.png);*/
     background-size: cover;
     /* background-blend-mode: multiply; */
